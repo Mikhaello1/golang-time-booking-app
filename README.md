@@ -1,2 +1,2 @@
 # golang-time-booking-app
-golang rest api postgresql 
+golang time-booking-app
